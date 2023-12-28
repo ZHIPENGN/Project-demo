@@ -3,13 +3,13 @@
 项目链接：[挡土墙](https://apps.apple.com/cn/app/retaining-walls/id6469571321)
 
 ## Android开发
-项目展示：![动图](https://github.com/ZHIPENGN/Project-demo/blob/main/view.gif)
+项目展示：<img src="https://github.com/ZHIPENGN/Project-demo/blob/main/view.gif" height="50%">
 
-![动图](https://github.com/ZHIPENGN/Project-demo/blob/main/collection.gif)
+<img src="https://github.com/ZHIPENGN/Project-demo/blob/main/collection.gif" height="50%">
 
-![动图](https://github.com/ZHIPENGN/Project-demo/blob/main/ar-download.gif)
+<img src="https://github.com/ZHIPENGN/Project-demo/blob/main/ar-download.gif" height="50%">
 
-![动图](https://github.com/ZHIPENGN/Project-demo/blob/main/ar.gif)
+<img src="https://github.com/ZHIPENGN/Project-demo/blob/main/ar.gif" height="50%">
 
 ## 共享画板
 项目展示：![动图](https://github.com/ZHIPENGN/Project-demo/blob/main/swing.gif)
