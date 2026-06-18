@@ -2,8 +2,8 @@
 ## AI自动化搜索-吃豆人游戏
 职责：后端算法开发
 该游戏主要为扮演吃豆人，需要在有限时间内吃掉对方领地豆子然后回到我方领地。在对方领地时需要防范被对方吃豆人吃掉。
-项目展示：(https://github.com/ZHIPENGN/Project-demo/blob/main/AI%E7%AD%96%E7%95%A51.gif)
-(https://github.com/ZHIPENGN/Project-demo/blob/main/AI%E7%AD%96%E7%95%A52.gif)
+项目展示：![动图](https://github.com/ZHIPENGN/Project-demo/blob/main/AI%E7%AD%96%E7%95%A51.gif)
+![动图](https://github.com/ZHIPENGN/Project-demo/blob/main/AI%E7%AD%96%E7%95%A52.gif)
 
 ## IOS软件开发
 职责：前端开发
