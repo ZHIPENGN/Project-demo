@@ -27,7 +27,8 @@
 
 该软件是用地图进行寻找附近的人进行交友活动，当前展示的是陌生人间送礼物界面
 
-项目展示：<img src="https://github.com/ZHIPENGN/Project-demo/blob/main/view.gif" height="400px">
+项目展示：
+<img src="https://github.com/ZHIPENGN/Project-demo/blob/main/view.gif" height="400px">
 
 <img src="https://github.com/ZHIPENGN/Project-demo/blob/main/collection.gif" height="400px">
 
